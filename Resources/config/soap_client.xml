@@ -22,6 +22,7 @@
             <argument>%phpforce.soap_client.wsdl%</argument>
             <argument>%phpforce.soap_client.username%</argument>
             <argument>%phpforce.soap_client.password%</argument>
+            <argument>%phpforce.soap_client.soap_options%</argument>
             <argument>%phpforce.soap_client.token%</argument>
         </service>
 
